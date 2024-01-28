@@ -50,7 +50,8 @@ python barcode_scanner.py
 
 Barkod tarayıcı uygulamasının çalışma ekranını görmek için aşağıdaki görüntüye göz atabilirsiniz.
 
-![Ekran Alıntısı](https://github.com/dagaca/OpenCV-Barcode-Scanner/assets/80363244/0303a7f2-b054-4ec4-858c-f54a31a5dd32)
+
+![Ekran Alıntısı](https://github.com/dagaca/OpenCV-Barcode-Scanner/assets/80363244/1a558d81-4ae3-4bfe-a58c-ba32e47ec644)
 
 
 ## Katkılar
